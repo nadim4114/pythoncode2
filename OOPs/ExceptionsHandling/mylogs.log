@@ -1,0 +1,20 @@
+CRITICAL:root:This is critical Error
+ERROR:root:This is error message
+CRITICAL:root:This is critical Error
+ERROR:root:This is error message
+WARNING:root:This is a warning message
+CRITICAL:root:This is critical Error
+ERROR:root:This is error message
+WARNING:root:This is a warning message
+CRITICAL:root:This is critical Error
+ERROR:root:This is error message
+WARNING:root:This is a warning message
+DEBUG:root:THis is a debug message
+CRITICAL:root:This is critical Error
+ERROR:root:This is error message
+WARNING:root:This is a warning message
+DEBUG:root:THis is a debug message
+CRITICAL:root:This is critical Error
+ERROR:root:This is error message
+WARNING:root:This is a warning message
+INFO:root:This is info for use
